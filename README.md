@@ -1,18 +1,24 @@
 <div align="center">
 
-# Hi 👋, I'm Sagar Patil
+# 👋 Hi, I'm Sagar Patil
 
-### SAP ABAP & RAP Developer | Full Stack Developer
+### 🚀 SAP ABAP & RAP Developer | Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=0FAAFF&center=true&vCenter=true&width=700&lines=SAP+ABAP+%26+RAP+Developer;CDS+Views+%7C+OData+V4+%7C+Fiori;Building+Enterprise+SAP+Applications;Full+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=0FAAFF&center=true&vCenter=true&width=800&lines=SAP+ABAP+%26+RAP+Developer;CDS+Views+%7C+OData+V4+%7C+Fiori;Building+Enterprise+SAP+Applications;Full+Stack+Developer;Always+Learning+New+Technologies" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sagarpatil062002&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ## 👨‍💻 About Me
 
-🚀 Passionate developer transitioning into the SAP ecosystem with hands-on learning in modern SAP technologies.
+✨ Passionate developer transitioning into the SAP ecosystem with strong interest in modern SAP technologies and enterprise application development.
 
 💡 Currently focused on:
 
@@ -22,18 +28,22 @@
 * Fiori Elements
 * SAP S/4HANA
 
-💻 Alongside SAP development, I also have experience in Full Stack Development and building web-based applications.
+💻 Also experienced in Full Stack Development and web-based application development.
 
 🎯 Goal:
-To become a skilled SAP Technical Consultant and build real-world enterprise business solutions.
+To become a skilled SAP Technical Consultant and build impactful enterprise SAP solutions.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### SAP Technologies
+## SAP Technologies
 
 <p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,html,css,js,php" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 <img src="https://img.shields.io/badge/ABAP-00599C?style=for-the-badge"/>
@@ -48,60 +58,56 @@ To become a skilled SAP Technical Consultant and build real-world enterprise bus
 
 ---
 
-### Full Stack Technologies
+# 📚 Currently Learning
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-</p>
+✅ RAP Managed Scenario
+✅ Draft Handling
+✅ Validations & Determinations
+✅ Fiori Elements
+✅ Enterprise SAP Application Development
 
 ---
 
-## 📚 Currently Learning
-
-* RAP Managed Scenario
-* Draft Handling
-* Validations & Determinations
-* Fiori Elements
-* Enterprise SAP Application Development
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagarpatil062002&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sagarpatil062002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpatil062002&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpatil062002&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 GitHub Trophies
 
-<p align="left">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/sagar-patil-88985413a/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="35" width="35" />
+<img src="https://github-profile-trophy.vercel.app/?username=sagarpatil062002&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sagar-patil-88985413a/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/sagarpatil062002" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="35" width="35" />
+<a href="https://github.com/sagarpatil062002" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 Building Skills. Building Projects. Building My SAP Journey.
+### 🚀 Building Skills • Building Projects • Building My SAP Journey
 
 </div>
